@@ -3,10 +3,13 @@
 ~~{04/01/1691}~~
 <p align="right">
  Start date: {11/30/2023}
+</p>
 <p align="right">
  Finish date: {12/11/2023}
+</p>
 <p align="right">
  Last updated: {01/06/2024}
+</p>
 <p align="right">
  this copy was created on {01/06/2024}
 </p>
