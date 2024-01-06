@@ -11,7 +11,7 @@
  Last updated: {01/06/2024}
 </p>
 <p align="right">
- this copy was created on {01/06/2024}
+ This copy was created on: {01/06/2024}
 </p>
 
 <p align="center">
